@@ -7,3 +7,7 @@ Here the example of the color.
 
 Here the possible text on the truck.
 ![truck brand](Truck_Model_BabyBlue_01.jpeg?raw=true "Brand")
+
+Here it the front view
+![truck brand](Truck_Model_BabyBlue_Front.jpeg?raw=true "Front")
+
